@@ -12,6 +12,15 @@ ng2.webgeeker.xyz
 
 angular2.webgeeker.xyz  ??? which repo ???
 
+https://github.com/ufo-github/angular.io/blob/gh-pages/CNAME  
+
+http://angular2.webgeeker.xyz
+
+CNAME
+
+
+
+
 
 
 http://angularjs2.webgeeker.xyz/
