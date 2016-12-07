@@ -6,7 +6,13 @@
 
 
 
+http://angularjs2.webgeeker.xyz/
 
+https://github.com/xgqfrms-GitHub/angularjs2/blob/gh-pages/CNAME
+
+## angularjs2.webgeeker.xyz (disabled)
+
+https://github.com/xgqfrms-GitHub/angularjs2
 
 
 
